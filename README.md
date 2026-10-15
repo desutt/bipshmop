@@ -1,2 +1,1 @@
-# perfect_life
-all in one
+social media
